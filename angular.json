@@ -117,6 +117,10 @@
               "devServerTarget": "athu0:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
