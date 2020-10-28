@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "athu0"
+    }
+  },
+  "defaultProject": "athu0",
+  "cli": {
+    "analytics": "2feb6586-7e55-4b27-a2c6-823c77f4bc46"
+  }
 }
